@@ -3,7 +3,7 @@
     "umar": {
       password: "2009",
       images: [
-        "assets/umar1.jpg",
+        "assets/umar/umar1.jpg",
         "",
         "",
         "",
